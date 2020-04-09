@@ -3,7 +3,7 @@
 Classic game Spaceshooter made with pygame.
 You can change the code and implement your own ideas on the game.
 
-Requirmenents:
+Requirements:
 
 pip install pygame
 
